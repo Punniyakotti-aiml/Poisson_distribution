@@ -66,7 +66,7 @@ if cal_chi2_sq<table_chi2:
 else:
     print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
 # Output :
-![Screenshot 2024-12-14 192343](https://github.com/user-attachments/assets/cbb64af2-3759-41ca-adfd-04555e5bf3c1)
+![Screenshot 2024-12-14 192343] (https://github.com/user-attachments/assets/cbb64af2-3759-41ca-adfd-04555e5bf3c1)
 
 
 
