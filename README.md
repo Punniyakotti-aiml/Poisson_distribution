@@ -1,4 +1,9 @@
 # Fitting Poisson  distribution
+# Ex no 2
+# Date:
+# Name:YG Srinath 
+# Register.no:24900665
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
