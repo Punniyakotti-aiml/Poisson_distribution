@@ -1,8 +1,4 @@
-# Fitting Poisson  distribution
-# Ex no 2
-# Date:
-# Name:YG Srinath 
-# Register.no:24900665
+# Ex no :2 Fitting Poisson  distribution
 
 # Aim : 
 
@@ -32,7 +28,8 @@ The Poisson distribution is the discrete probability distribution of the number 
 # Experiment :
 
 ![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
-
+Name:Punniyakotti.M
+Ref no:24006503
 # Program :
 ~~~
 import numpy as np
