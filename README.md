@@ -1,8 +1,9 @@
- #  Ex no :2 Fitting Poisson  distribution
- 
+ # Ex.no:2 Fitting Poisson  distribution
+
+# Name : Punniyakotti.M
+# Register number : 24006503
 
 # Aim : 
-
 To fit poisson distribution for the arrival of objects per minute from the feeder
 
 # Software required :  
@@ -30,10 +31,11 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 ![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
 
-Name:Punniyakotti.M
-Ref no:24006503
 # Program :
-~~~
+```py
+Developed by : KIRTHICK SHA R
+Register number :24900676
+
 import numpy as np
 import math
 import scipy.stats
@@ -69,11 +71,13 @@ if cal_chi2_sq<table_chi2:
     print("The given data can be fitted in poisson Distribution at 1% LOS")
 else:
     print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
-~~~
-# Output :
-![Screenshot 2024-12-14 193251](https://github.com/user-attachments/assets/1766daca-1f2a-437f-b8ed-1bf98dceb48c)
+ 
+```
 
+ 
 
+# Output : 
+![image](https://github.com/user-attachments/assets/f9610143-0c90-42e3-9e29-5dea60c7e4d1)
 
 
 
